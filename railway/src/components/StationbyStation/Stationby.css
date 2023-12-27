@@ -1,0 +1,71 @@
+/* Add this CSS in a separate file, for example, Stationbystation.css
+
+/* Form Styles */
+form {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+  }
+  /* body{
+    background-image: url("bgs.jpg");
+    
+  } */
+ 
+
+
+  
+  input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 8px;
+    font-size: 14px;
+  }
+  
+  button {
+    padding: 10px 16px;
+    background-color: #c149fd;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  button:hover {
+    background-color:  #c149fd;
+  }
+  
+  /* Card Styles */
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .card > div {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card h5 {
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  /* Additional Styling for Classes */
+  .card span {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color:  #c149fd;
+    color: #fff;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+   
