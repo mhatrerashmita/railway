@@ -8,12 +8,12 @@ Railway Management System is a web application developed using React.js (fronten
 - **Seat Availability**: Check seat availability for specific trains and dates.
 - **Hotel Booking**: Book hotels for travelers in association with railway journeys.
 - **User Authentication**: Secure user authentication and authorization for accessing features.
-- **Admin Panel**: Separate admin panel for managing train schedules, seat availability, and hotel bookings.
+- **Admin Panel**: Separate admin panel for managing train schedules, seat availability, and hotel bookings Management.
 
 ## Technologies Used
 
 - **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js 
 - **Database**: MongoDB
 
 ## Setup
