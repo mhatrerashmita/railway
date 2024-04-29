@@ -16,12 +16,8 @@ Railway Management System is a web application developed using React.js (fronten
 - **Backend**: Node.js, Express.js 
 - **Database**: MongoDB
 
-## Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/railway-management-system.git
 
    ![image](https://github.com/mhatrerashmita/railway/assets/130562993/245fb1a9-2708-4fbd-a281-1900d9eaa83a)
+  ![image](https://github.com/mhatrerashmita/railway/assets/130562993/3794a4f7-f59a-40e7-8a05-f4a7d2d69839)
+
 
